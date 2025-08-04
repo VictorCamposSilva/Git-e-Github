@@ -1,0 +1,19 @@
+GIT e GITHUB
+
+Objetivo: Versionamento de Software.
+
+Vamos usar o Git pra fazer o versionamento nas nossas máquinas.
+Software de controle de versionamento de código.
+
+O GIT permite:
+
+* Controle de histórico.
+* Trabalho em equipe.
+* Ramificação do projeto.
+* Segurança (O Editor gráfico vê apenas o código dele, etc.)
+* Organização. (Com os commit).
+
+Versionamento: Vertical e Escalonado.
+
+Vamos usar o Github pra disponibilizar nossos versionamentos.
+
