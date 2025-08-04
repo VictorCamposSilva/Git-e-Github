@@ -1,0 +1,91 @@
+Git-Github - O que é Git? O que é versionamento?
+
+
+CARACTERÍSTICAS:
+
+# REPOSITÓRIOS ILIMITADOS
+
+# HOSPEDAGEM DE CÓDIGO FONTE
+
+# CARACTERÍSTICAS DE REDE SOCIAL
+
+# GITHUB PAGES INTEGRADO (Páginas web simples gratuitamente).
+
+# COLABORAÇÃO
+
+# FORKS
+
+
+=======================================================================
+
+VERSIONAMENTO
+
+
+Organiza o projeto em versões diferentes de acordo com o processo de modificações do projeto.
+
+V1;
+V2;
+V3;
+V4;
+V5;
+
+Essa forma de salvamento no Git aliado ao Github vai permitir o savamento duplo. Um salvamento pessoal no Git e um salvamento em grupo e passível de modificações por programadores diferentes se for feito no Github.
+
+O versionamento é coomo se fosse uma máquina do tempo.
+
+VCS = SOFTWARE de CONTROLE de VERSIONAMENTO
+
+
+
+Vamos usar o Git pra fazer o versionamento nas nossas máquinas.
+Software de controle de versionamento de código.
+
+O GIT permite:
+
+* Controle de histórico.
+* Trabalho em equipe.
+* Ramificação do projeto.
+* Segurança (O Editor gráfico vê apenas o código dele, etc.)
+* Organização. (Com os commit).
+* Push (Pegar o versionamento que você tem na sua máquina e colocar ele no repositório remoto)
+	Do GIT para o GITHUB
+
+VCS - Distribuído
+
+Versionamento: CENTRALIZADOS e DISTRIBUÍDOS.
+
+VERSIONAMENTOS CENTRALIZADOS:
+
+SOFTWARE CHANGE MANAGER (CCC)
+SOURCE CODE CONTROL SYSTEM (SCCS)
+Panvalet
+CONCURRENT VERSION SYSTEM (CVS) 1985
+APACHE SUBVERSION (SVN) 2000
+CLEARCASE
+VISUAL SOURCESAFE
+PERFORCE
+
+VERSIONAMENTOS DISTRIBUÍDOS:
+
+MERCURIAL
+BAZAAR
+CODE CO-OP
+GNU ARCH
+MONOTONE
+FOSSIL
+BITKEEPER 2000 
+Proprietário – Kernel do Linux feito em C. 
+GIT  2005 - Linux Torvalds criou depois da briga com o Bitkeeper
+
+Vamos usar o Github pra disponibilizar nossos versionamentos.
+
+GITHUB 2008 – Proprietário
+
+2018 – Foi comprado pela Microsoft
+
+Baseado em Git – É um repositório do Git
+
+Procurar o livro “Pro Git”.
+
+istock (Venda de imagens e logos)
+octodex.github.com
